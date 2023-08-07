@@ -1,1 +1,2 @@
 Hello issue1 branch
+new　fanction in issue1 branch
